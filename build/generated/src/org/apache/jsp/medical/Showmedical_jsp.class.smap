@@ -1,0 +1,21 @@
+SMAP
+Showmedical_jsp.java
+JSP
+*S JSP
+*F
++ 0 Showmedical.jsp
+medical/Showmedical.jsp
+*L
+1,4:45
+6,27:50
+32:77
+33:78,3
+34:81
+35,5:82,3
+40,3:97
+43:100,3
+44,3:103
+47:106,3
+48,3:109
+51,2:113
+*E
